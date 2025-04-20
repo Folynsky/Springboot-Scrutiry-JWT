@@ -1,4 +1,4 @@
-package com.exampleJWT.JWT;
+package com.exampleJWT.JWT.model;
 
 public class Student {
     private int id;

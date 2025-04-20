@@ -1,4 +1,4 @@
-package com.exampleJWT.JWT;
+package com.exampleJWT.JWT.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;

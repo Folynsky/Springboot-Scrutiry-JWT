@@ -1,5 +1,6 @@
-package com.exampleJWT.JWT;
+package com.exampleJWT.JWT.controller;
 
+import com.exampleJWT.JWT.model.Student;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
